@@ -1,8 +1,6 @@
 n=1
 p=0
 import time
-mensaje1 = 'Pi = '
-
 
 sign=1.
 while n<10000:
